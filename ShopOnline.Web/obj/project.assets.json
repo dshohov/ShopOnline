@@ -390,6 +390,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "ShopOnline.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ShopOnline.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopOnline.Model.dll": {}
+        }
       }
     },
     "net6.0/browser-wasm": {
@@ -774,6 +784,16 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "ShopOnline.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ShopOnline.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopOnline.Model.dll": {}
         }
       }
     }
@@ -1537,12 +1557,18 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ShopOnline.Model/1.0.0": {
+      "type": "project",
+      "path": "../ShopOnline.Model/ShopOnline.Model.csproj",
+      "msbuildProject": "../ShopOnline.Model/ShopOnline.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.6",
-      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.6"
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.6",
+      "ShopOnline.Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1576,7 +1602,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Дмитрий\\Desktop\\Pizzeria\\OnlineShop\\ShopOnline.Web\\ShopOnline.Model\\ShopOnline.Model.csproj": {
+              "projectPath": "C:\\Users\\Дмитрий\\Desktop\\Pizzeria\\OnlineShop\\ShopOnline.Web\\ShopOnline.Model\\ShopOnline.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
