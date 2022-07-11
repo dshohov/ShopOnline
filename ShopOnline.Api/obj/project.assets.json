@@ -705,6 +705,16 @@
             "rid": "win"
           }
         }
+      },
+      "ShopOnline.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ShopOnline.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopOnline.Model.dll": {}
+        }
       }
     }
   },
@@ -2050,12 +2060,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "ShopOnline.Model/1.0.0": {
+      "type": "project",
+      "path": "../ShopOnline.Model/ShopOnline.Model.csproj",
+      "msbuildProject": "../ShopOnline.Model/ShopOnline.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.6",
+      "ShopOnline.Model >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -2090,7 +2106,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Дмитрий\\Desktop\\Pizzeria\\OnlineShop\\ShopOnline.Web\\ShopOnline.Model\\ShopOnline.Model.csproj": {
+              "projectPath": "C:\\Users\\Дмитрий\\Desktop\\Pizzeria\\OnlineShop\\ShopOnline.Web\\ShopOnline.Model\\ShopOnline.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

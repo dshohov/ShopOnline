@@ -1,0 +1,12 @@
+C:\Users\Дмитрий\Desktop\Pizzeria\OnlineShop\ShopOnline.Web\ShopOnline.Model\bin\Debug\net6.0\ShopOnline.Model.deps.json
+C:\Users\Дмитрий\Desktop\Pizzeria\OnlineShop\ShopOnline.Web\ShopOnline.Model\bin\Debug\net6.0\ShopOnline.Model.dll
+C:\Users\Дмитрий\Desktop\Pizzeria\OnlineShop\ShopOnline.Web\ShopOnline.Model\bin\Debug\net6.0\ShopOnline.Model.pdb
+C:\Users\Дмитрий\Desktop\Pizzeria\OnlineShop\ShopOnline.Web\ShopOnline.Model\obj\Debug\net6.0\ShopOnline.Model.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Pizzeria\OnlineShop\ShopOnline.Web\ShopOnline.Model\obj\Debug\net6.0\ShopOnline.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Pizzeria\OnlineShop\ShopOnline.Web\ShopOnline.Model\obj\Debug\net6.0\ShopOnline.Model.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Pizzeria\OnlineShop\ShopOnline.Web\ShopOnline.Model\obj\Debug\net6.0\ShopOnline.Model.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Pizzeria\OnlineShop\ShopOnline.Web\ShopOnline.Model\obj\Debug\net6.0\ShopOnline.Model.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Pizzeria\OnlineShop\ShopOnline.Web\ShopOnline.Model\obj\Debug\net6.0\ShopOnline.Model.dll
+C:\Users\Дмитрий\Desktop\Pizzeria\OnlineShop\ShopOnline.Web\ShopOnline.Model\obj\Debug\net6.0\refint\ShopOnline.Model.dll
+C:\Users\Дмитрий\Desktop\Pizzeria\OnlineShop\ShopOnline.Web\ShopOnline.Model\obj\Debug\net6.0\ShopOnline.Model.pdb
+C:\Users\Дмитрий\Desktop\Pizzeria\OnlineShop\ShopOnline.Web\ShopOnline.Model\obj\Debug\net6.0\ref\ShopOnline.Model.dll
